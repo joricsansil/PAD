@@ -1,0 +1,34 @@
+A LGPD se aplica aos data centers de várias maneiras.
+Os data centers são considerados operadores de dados, já que eles geralmente processam dados em nome de outras organizações. 
+Como tal, eles são responsaveis por garantir que o tratamento dos dados pessoais esteja em conformidade com os requisitos da LGPD.
+São também responsáveis por implementar medidas de segurança adequadas para proteger os dados pessoais armazenados contra acesso não autorizado, uso indevido, perda ou destruição. 
+Isso inclui a implementação de controles físicos e lógicos, criptografia, monitoramento de acesso e outras práticas de segurança.
+Se os data centers transferirem dados pessoais para fora do Brasil, eles devem garantir que essa transferência esteja em conformidade com os requisitos da LGPD para transferências internacionais de dados, como obter o consentimento explícito do titular dos dados ou adotar outras salvaguardas apropriadas.
+Os data centers são obrigados a manter registros das atividades de tratamento de dados realizadas em seus sistemas, incluindo informaçoes sobre as operações realizadas, os dados envolvidos, as finalidades do tratamento, entre outras informações, conforme exigido pela LGPD.
+
+https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/
+https://odatacolocation.com/blog/lgpd-para-datacenters/
+https://zeittec.com.br/seu-data-center-esta-adequado-a-lgpd/
+https://otg.com.br/entenda-porque-adequar-o-seu-data-center-a-lgpd-e-tao-importante/
+
+
+
+
+Formatos de arquivos de dados proprietários e abertos
+
+Os formatos de arquivo de dados proprietários são controlados por uma entidade específica e podem exigir software proprietário para acessá-los, 
+enquanto os formatos de arquivo de dados abertos são publicamente disponíveis e podem ser acessados e manipulados sem restrições significativas. 
+A escolha entre os dois depende das necessidades específicas do usuário e dos requisitos de interoperabilidade e acessibilidade dos dados.
+
+Aberto.
+Ex:.  .CSV (Comma-Separated Values). Este formato consiste em dados tabulares em texto simples, onde os valores são separados por vírgulas.
+Os arquivos CSV podem ser facilmente abertos e manipulados por uma variedade de aplicativos, incluindo planilhas e bancos de dados.
+
+Fechado.
+ex:. .docx, usado pelo Microsoft Word. Esse formato é proprietário da Microsoft e requer o software Microsoft Word para abrir e editar os arquivos.
+
+
+
+
+
+
