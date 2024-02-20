@@ -1,0 +1,17 @@
+Usar dados públicos com diferentes tipos de arquivos de dados, seja proprietários ou abertos, pode ter várias implicações, dependendo das necessidades e objetivos do usuário.
+
+Dados públicos com formatos de arquivo proprietários:
+
+Acesso limitado,se os dados públicos estiverem disponíveis em um formato de arquivo proprietário, pode haver limitações no acesso aos dados, já que pode ser necessário utilizar software específico para abrir e manipular esses arquivos. 
+Isso pode restringir a acessibilidade dos dados a indivíduos ou organizações que não possuem ou não podem pagar pelo software necessário.
+Interoperabilidade reduzida: Os formatos de arquivo proprietários podem não ser compatíveis com uma ampla variedade de software e sistemas, o que pode dificultar a integração dos dados em diferentes plataformas e ambientes de trabalho.
+Dependência do fornecedor,usar dados em formatos proprietários pode criar uma dependência contínua do fornecedor do software, já que os usuários podem ficar presos a um determinado produto ou serviço para acessar e manipular os dados.
+
+Dados públicos com formatos de arquivo abertos:
+
+Acesso amplo, os formatos de arquivo abertos permitem um acesso mais amplo aos dados públicos, já que eles podem ser facilmente abertos e manipulados por uma variedade de aplicativos e sistemas, sem restrições significativas.
+Interoperabilidade melhorada, já que os formatos de arquivo abertos são geralmente mais interoperáveis, 
+o que significa que os dados podem ser facilmente integrados e compartilhados entre diferentes sistemas e plataformas, promovendo a colaboração e o compartilhamento de dados.
+Independência do fornecedor do software, o uso de formatos de arquivo abertos promove a independência do fornecedor, já que os dados podem ser acessados e manipulados por uma variedade de software de terceiros, sem ficar preso a um único fornecedor ou plataforma.
+Logo, ao usar dados públicos, é preferível optar por formatos de arquivo abertos sempre que possível, pois isso promove o acesso amplo, a interoperabilidade e a independência do fornecedor. 
+No entanto, em alguns casos, pode ser necessário lidar com dados em formatos proprietários, podendo trazer mais custos e também mais suporte.
