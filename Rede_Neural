@@ -1,0 +1,8 @@
+Uma rede neural artificial é um modelo computacional inspirado no funcionamento do cérebro humano. 
+Ela é composta por uma série de unidades de processamento interconectadas, chamadas de neurônios artificiais ou unidades de processamento. Esses neurônios são organizados em camadas, como entrada, ocultas e saída.
+Cada conexão entre os neurônios possui um peso associado, que determina a força da relação entre eles. Durante o treinamento, esses pesos são ajustados iterativamente (de modo repetitivo) para que a rede neural possa aprender a mapear corretamente os padrões nos dados de entrada para produzir as saídas desejadas.
+As redes neurais artificiais têm sido amplamente utilizadas em uma variedade de aplicações, incluindo reconhecimento de padrões, processamento de linguagem natural, visão computacional, previsão de séries temporais, entre outros. 
+Elas são especialmente eficazes em lidar com problemas complexos e não-lineares, onde outras abordagens podem ser menos eficazes.
+
+https://aws.amazon.com/pt/what-is/neural-network/
+https://sites.icmc.usp.br/andre/research/neural/#cara
