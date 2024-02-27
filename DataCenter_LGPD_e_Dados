@@ -43,7 +43,8 @@ Os arquivos CSV podem ser facilmente abertos e manipulados por uma variedade de 
 Fechado.
 ex:. .docx, usado pelo Microsoft Word. Esse formato é proprietário da Microsoft e requer o software Microsoft Word para abrir e editar os arquivos.
 
-
+O governo pode utilizar os dois formatos, mas essa decisão impacta diretamente no custo e no acesso ao arquivo no futuro. O ideal é que sejam abertos, pode acontecer do proprietário do formato deixar de permtir o acesso ao mesmo.
+Também pode acontecer de uma entidade pública não ter acesso a um dado público pois o formato é prioritário e ela não tem uma licença de utilização, impedindo também a integração entre sistemas.
 
 
 
