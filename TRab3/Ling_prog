@@ -1,0 +1,20 @@
+Sintaxe - A sintaxe trata da estrutura de um programa escrito em código, envolvendo o conjunto de frases permitidas de uma linguagem, já a semântica mostra o significado associado dessas frases.
+Aplicação - As linguagens podem ser mais aplicadas a uma função ou multifuncionais, exemplos: SQL para bancos de dados, Python multifuncional, Ruby multifuncional (web, jogos, automação de tarefas e etc).
+Tipo de Nível - o Nível das linguagens se definem pelo quanto são próximos a nossa linguagem (nível alto) ou próximos a linguagem da máquina, 0101010 (nível baixo).
+
+                                                        
+
+Python - A sintaxe da linguagem de programação Python é muito próxima a linguagem humana, necessita de caracteres no início e no final da instrução. 
+       - Aplica-se em web, automação de testes de software, ciência de dados e etc.
+       - Nível alto, facilidade de programção por estar mais próximo a linguagem humana.
+
+Ruby - A Sintaxe do Ruby é simples e exata, termos em inglês, sem necessidades de caracteres de término de uma instrução.
+     - Aplica-se para web, programação de jogos, análise de dados e etc.
+     - Nível alto, facilidade de programção por estar mais próximo a linguagem humana.
+
+Go - Sintaxe muito parecida com o Python, termos em inglês com caracteres ao início e ao final da instrução.
+   - Aplica-se para microsserviços, infraestrutura, DevOps e aplicações de BackEnd.
+    - Nível alto, facilidade de programção por estar mais próximo a linguagem humana.
+
+A escolha entre as três se dará pela aplicação escolhida, Ruby para Web por ter mais robustes ou Golang para infraestrutura.
+
