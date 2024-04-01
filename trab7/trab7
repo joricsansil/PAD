@@ -1,0 +1,36 @@
+def soma_media(lista):
+    soma = sum(lista)
+    media = soma / len(lista)
+    return soma, media
+
+def substituir_palavra(lista, palavra_antiga, palavra_nova):
+    nova_lista = [palavra_nova if palavra == palavra_antiga else palavra for palavra in lista]
+    return nova_lista
+
+def imprimir_triangulo(num_linhas):
+    for i in range(1, num_linhas + 1):
+        print('*' * i)
+
+# Exemplos de uso:
+
+# Questão 1
+lista_numeros = [3, 7, 14, 38]
+soma, media = soma_media(lista_numeros)
+print("Soma:", soma)
+print("Média:", media)
+
+# Questão 2
+lista_palavras = ["banana", "morango", "limão", "cadarço", "bonito", "tomate"]
+palavra_antiga = "bonito"
+palavra_nova = "bugado"
+nova_lista_palavras = substituir_palavra(lista_palavras, palavra_antiga, palavra_nova)
+print("Lista de palavras alterada:", nova_lista_palavras)
+
+# Questão 3
+def imprimir_triangulo(num_linhas):
+    for i in range(1, num_linhas + 1):
+        print(' ' * (num_linhas - i) + '*' * (2*i - 1))
+
+# Exemplo de uso da função para n = 12
+print("Triângulo de asteriscos:")
+imprimir_triangulo(12)
